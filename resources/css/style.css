@@ -26,3 +26,7 @@ h1 {
     font-size: 21px;
 
 }
+.copyright{
+    color: gray;
+    text-align: right;
+}
